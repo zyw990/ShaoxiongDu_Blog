@@ -4,11 +4,11 @@
 
 ## 一.项目技术
 
-#### * 后端采用SpringBoot框架 前端采用Semantic UI 全段模板引擎Thymeleaf
+#### * 后端SpringBoot框架 前端Semantic UI 前端模板引擎Thymeleaf
 
 #### * 后端分为控制层 业务层 数据持久层 严格按照SpringMVC架构模式开发.
 
-#### * 后端持久层框架采用SpringBootJPA，数据库为MySQL
+#### * 后端持久层框架采用SpringBootJPA，数据库为MySQL8.0
 
 ## 二.部署教程
 
