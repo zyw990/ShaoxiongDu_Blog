@@ -1,6 +1,6 @@
-# <center>个人博客代码托管仓库</center>
+# <center>SpringBoot个人博客</center>
 
-## 项目已成功部署至阿里云服务器 预览访问 blog.ShaoxiongDu.top
+## 效果预览<a href='http://blog.shaoxiongdu.top'>blog.ShaoxiongDu.top</a>
 
 ## 一.项目技术
 
