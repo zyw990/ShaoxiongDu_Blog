@@ -12,7 +12,7 @@
 
 ## 二.部署教程
 
-#### 1.  从github中克隆项目 解压之后,用Java开发工具(推荐Idea)选择maven项目导入
+#### 1.  Fork本项目,用Java开发工具(推荐Idea)新建项目，选版本工具导入，复制项目github地址
 
 #### 2. 修改开发环境(-dev)的配置文件中的数据库信息,确保连接的是自己的数据库  修改datasource下的jpa的ddl为create
 
