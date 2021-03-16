@@ -26,7 +26,16 @@
 
 ##### *注: 端口号可在主配置文件中修改
 
-## 三.赞赏
+## 常见问题.
+
+#### 如果您在学习或者部署本项目的时候遇到了任何问题，非常欢迎提出issues或者联系我。
+
+#### 我的关注号【CodeKey】，日常分享一些编程中的面试题目，程序人生，理论知识等编程干货。
+
+<img src="http://blog.shaoxiongdu.top/images/CodeKey.jpg" width='300px' />
+
+## 四.赞赏
+
 #### 如果觉得这个项目有趣,欢迎请作者喝一杯茶!
 
 <img src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/wechatPay.jpg" width='300px' />
