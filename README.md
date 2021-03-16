@@ -1,6 +1,6 @@
 # <center>SpringBoot个人博客</center>
 
-## 效果预览 &nbsp;&nbsp;&nbsp;<a href='http://blog.shaoxiongdu.top'>blog.ShaoxiongDu.top</a>
+## 效果预览 &nbsp;&nbsp;&nbsp;<a href='http://blog.shaoxiongdu.top' target='_blank'>blog.ShaoxiongDu.top</a>
 
 ## 一.项目技术
 
